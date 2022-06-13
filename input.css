@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav{
+    @apply hover:bg-yellow-500 rounded-xl flex justify-center
+
+}
